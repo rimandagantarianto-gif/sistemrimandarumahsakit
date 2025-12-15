@@ -30,7 +30,7 @@ const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
           <div className="flex items-center space-x-4">
              <div className="bg-white px-4 py-2 rounded-full border border-slate-200 shadow-sm text-sm text-slate-500 flex items-center gap-2">
                 <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></div>
-                System Operational
+                System Online v1.0
              </div>
              <button className="w-10 h-10 rounded-full bg-white border border-slate-200 shadow-sm flex items-center justify-center text-slate-500 hover:text-blue-600 transition-colors">
                <i className="fas fa-bell"></i>
